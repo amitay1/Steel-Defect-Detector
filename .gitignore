@@ -1,0 +1,65 @@
+# Virtual Environment (using .env folder)
+.env/
+venv/
+env/
+ENV/
+
+# Memory Bank Database Files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Test Files
+test_*.db
+test_export.json
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (if needed to be excluded)
+# *.pt
+# *.pth
+
+# Temporary files
+temp/
+tmp/
+*.tmp
