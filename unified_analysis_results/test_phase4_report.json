@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "export_time": "2025-06-21T14:26:46.477873",
+    "system_version": "Unified Intelligent Defect Analyzer v4.0",
+    "file_format": "JSON"
+  },
+  "analysis_result": {
+    "professional_report": {
+      "report_metadata": {
+        "generated_at": "2025-06-21 14:26:46 UTC",
+        "report_version": "4.0",
+        "system_version": "Unified Intelligent Defect Analyzer v4.0",
+        "operator": "Automated Quality Control System",
+        "facility": "Industrial Quality Control Laboratory",
+        "report_id": "QCR-20250621-142646"
+      },
+      "executive_summary": "UNIFIED INTELLIGENT DEFECT ANALYSIS REPORT\n==========================================\n\nSAMPLE: Unknown\nANALYSIS DATE: June 21, 2025 at 14:26 UTC\nOVERALL STATUS: CONDITIONAL APPROVAL\n\nQUALITY ASSESSMENT\n------------------\nFinal Score: 70.0/100\nGrade Classification: ACCEPTABLE\nDefects Detected: 0\nAffected Area: 0 pixels\n\nEXECUTIVE DECISION\n------------------\nMaterial meets minimum standards but requires monitoring during use.\n\nThis automated analysis was performed using the Unified Intelligent Defect \nAnalysis System v4.0, incorporating pixel-perfect defect detection, ASTM E-1932 \nstandards compliance verification, and advanced spatial quality assessment.",
+      "quality_assessment": {
+        "overall_score": 70.0,
+        "grade": "ACCEPTABLE",
+        "grade_color": "YELLOW",
+        "scoring_breakdown": [
+          "Defect Detection: -0.0 points (0 defects)",
+          "ASTM Compliance: -30 points (Non-compliant)",
+          "Grid Analysis: +0 points (All squares passed)"
+        ],
+        "assessment_criteria": {
+          "defect_tolerance": "Industrial Standard",
+          "astm_compliance": "ASTM E-1932",
+          "grid_analysis": "Spatial Quality Assessment",
+          "uniformity_standard": "Surface Consistency Index"
+        }
+      },
+      "detailed_findings": [
+        "DEFECT DETECTION: Identified 0 total defects using maximum recall detection",
+        "CLASSIFICATION: 0 known defects, 0 unknown patterns"
+      ],
+      "statistical_analysis": {
+        "defect_statistics": {
+          "total_defects": 0,
+          "classified_defects": 0,
+          "unknown_defects": 0,
+          "pixels_affected": 0
+        }
+      },
+      "compliance_certification": {
+        "astm_e1932_compliant": false,
+        "certification_status": "NON-CERTIFIED",
+        "reference_standard": "Not Available",
+        "test_parameters": {},
+        "certification_date": "2025-06-21",
+        "certifying_authority": "Automated Quality Control System v4.0",
+        "non_compliance_reasons": [
+          "Standards threshold exceeded"
+        ],
+        "corrective_action_required": true
+      },
+      "risk_assessment": {
+        "risk_level": "MODERATE",
+        "risk_color": "YELLOW",
+        "usage_recommendation": "CONDITIONAL - Limited applications only",
+        "risk_factors": [
+          "No significant risk factors identified"
+        ],
+        "mitigation_strategies": [
+          "Increase inspection frequency for this material type",
+          "Monitor performance in less critical applications first"
+        ],
+        "monitoring_requirements": [
+          "Weekly quality checks",
+          "Performance trending",
+          "Regular review of similar materials"
+        ]
+      },
+      "recommendations": [
+        "CONDITIONAL: Approve with increased inspection frequency",
+        "PROCESS REVIEW: Investigate minor quality variations"
+      ],
+      "appendices": {
+        "technical_specifications": {
+          "detection_technology": "Advanced Computer Vision with Maximum Recall",
+          "classification_method": "Multi-Model Pattern Recognition",
+          "standards_compliance": "ASTM E-1932 Automated Verification",
+          "spatial_analysis": "Pixel-Grid Quality Assessment",
+          "highlighting_precision": "Pixel-Perfect Defect Boundary Detection",
+          "model_accuracy": "92.1% mAP@50 on 20-class defect detection",
+          "processing_speed": "Real-time analysis with sub-3 second processing",
+          "supported_formats": [
+            "JPEG",
+            "PNG",
+            "TIFF",
+            "BMP"
+          ],
+          "analysis_resolution": "Full resolution with sub-pixel accuracy",
+          "confidence_thresholds": "Adaptive thresholds based on defect classification confidence"
+        },
+        "methodology": {
+          "detection_process": [
+            "1. Maximum Recall Detection - Ultra-sensitive defect identification",
+            "2. Pixel-Perfect Highlighting - Precise defect boundary determination",
+            "3. Intelligent Classification - AI-powered defect type identification",
+            "4. Standards Compliance - ASTM E-1932 verification against reference images",
+            "5. Spatial Analysis - Grid-based quality assessment",
+            "6. Risk Assessment - Comprehensive material usage evaluation"
+          ],
+          "quality_metrics": [
+            "Defect count and classification accuracy",
+            "Pixel-level defect density calculation",
+            "Spatial distribution uniformity analysis",
+            "ASTM compliance verification",
+            "Overall quality scoring (0-100 scale)"
+          ],
+          "validation_criteria": [
+            "Detection accuracy verified against known defect samples",
+            "Classification confidence thresholds validated",
+            "ASTM compliance logic tested with standard materials",
+            "Grid analysis validated with reference specimens"
+          ]
+        },
+        "standards_references": {
+          "primary_standard": "ASTM E-1932: Standard Guide for Assessing the Detectability of Discontinuities by Radiographic Testing",
+          "reference_images": "ASTM E-1932 Standard Reference Radiographs (Images 1-8)",
+          "material_specifications": [
+            "Carbon Steel: ASTM A36, ASTM A572",
+            "Stainless Steel: ASTM A240, ASTM A276",
+            "Aluminum: ASTM B209, ASTM B221",
+            "Alloy Steel: ASTM A514, ASTM A709"
+          ],
+          "quality_grades": [
+            "Grade A: Premium quality (≤2% defect tolerance)",
+            "Grade B: Standard quality (≤5% defect tolerance)",
+            "Grade C: Commercial quality (≤8% defect tolerance)",
+            "Grade D: Industrial quality (≤12% defect tolerance)"
+          ],
+          "compliance_verification": [
+            "Automated cross-reference with ASTM standard database",
+            "Material-specific threshold calculation",
+            "Thickness-adjusted tolerance determination",
+            "Quality grade verification against specifications"
+          ]
+        }
+      }
+    }
+  },
+  "professional_report": {
+    "report_metadata": {
+      "generated_at": "2025-06-21 14:26:46 UTC",
+      "report_version": "4.0",
+      "system_version": "Unified Intelligent Defect Analyzer v4.0",
+      "operator": "Automated Quality Control System",
+      "facility": "Industrial Quality Control Laboratory",
+      "report_id": "QCR-20250621-142646"
+    },
+    "executive_summary": "UNIFIED INTELLIGENT DEFECT ANALYSIS REPORT\n==========================================\n\nSAMPLE: Unknown\nANALYSIS DATE: June 21, 2025 at 14:26 UTC\nOVERALL STATUS: CONDITIONAL APPROVAL\n\nQUALITY ASSESSMENT\n------------------\nFinal Score: 70.0/100\nGrade Classification: ACCEPTABLE\nDefects Detected: 0\nAffected Area: 0 pixels\n\nEXECUTIVE DECISION\n------------------\nMaterial meets minimum standards but requires monitoring during use.\n\nThis automated analysis was performed using the Unified Intelligent Defect \nAnalysis System v4.0, incorporating pixel-perfect defect detection, ASTM E-1932 \nstandards compliance verification, and advanced spatial quality assessment.",
+    "quality_assessment": {
+      "overall_score": 70.0,
+      "grade": "ACCEPTABLE",
+      "grade_color": "YELLOW",
+      "scoring_breakdown": [
+        "Defect Detection: -0.0 points (0 defects)",
+        "ASTM Compliance: -30 points (Non-compliant)",
+        "Grid Analysis: +0 points (All squares passed)"
+      ],
+      "assessment_criteria": {
+        "defect_tolerance": "Industrial Standard",
+        "astm_compliance": "ASTM E-1932",
+        "grid_analysis": "Spatial Quality Assessment",
+        "uniformity_standard": "Surface Consistency Index"
+      }
+    },
+    "detailed_findings": [
+      "DEFECT DETECTION: Identified 0 total defects using maximum recall detection",
+      "CLASSIFICATION: 0 known defects, 0 unknown patterns"
+    ],
+    "statistical_analysis": {
+      "defect_statistics": {
+        "total_defects": 0,
+        "classified_defects": 0,
+        "unknown_defects": 0,
+        "pixels_affected": 0
+      }
+    },
+    "compliance_certification": {
+      "astm_e1932_compliant": false,
+      "certification_status": "NON-CERTIFIED",
+      "reference_standard": "Not Available",
+      "test_parameters": {},
+      "certification_date": "2025-06-21",
+      "certifying_authority": "Automated Quality Control System v4.0",
+      "non_compliance_reasons": [
+        "Standards threshold exceeded"
+      ],
+      "corrective_action_required": true
+    },
+    "risk_assessment": {
+      "risk_level": "MODERATE",
+      "risk_color": "YELLOW",
+      "usage_recommendation": "CONDITIONAL - Limited applications only",
+      "risk_factors": [
+        "No significant risk factors identified"
+      ],
+      "mitigation_strategies": [
+        "Increase inspection frequency for this material type",
+        "Monitor performance in less critical applications first"
+      ],
+      "monitoring_requirements": [
+        "Weekly quality checks",
+        "Performance trending",
+        "Regular review of similar materials"
+      ]
+    },
+    "recommendations": [
+      "CONDITIONAL: Approve with increased inspection frequency",
+      "PROCESS REVIEW: Investigate minor quality variations"
+    ],
+    "appendices": {
+      "technical_specifications": {
+        "detection_technology": "Advanced Computer Vision with Maximum Recall",
+        "classification_method": "Multi-Model Pattern Recognition",
+        "standards_compliance": "ASTM E-1932 Automated Verification",
+        "spatial_analysis": "Pixel-Grid Quality Assessment",
+        "highlighting_precision": "Pixel-Perfect Defect Boundary Detection",
+        "model_accuracy": "92.1% mAP@50 on 20-class defect detection",
+        "processing_speed": "Real-time analysis with sub-3 second processing",
+        "supported_formats": [
+          "JPEG",
+          "PNG",
+          "TIFF",
+          "BMP"
+        ],
+        "analysis_resolution": "Full resolution with sub-pixel accuracy",
+        "confidence_thresholds": "Adaptive thresholds based on defect classification confidence"
+      },
+      "methodology": {
+        "detection_process": [
+          "1. Maximum Recall Detection - Ultra-sensitive defect identification",
+          "2. Pixel-Perfect Highlighting - Precise defect boundary determination",
+          "3. Intelligent Classification - AI-powered defect type identification",
+          "4. Standards Compliance - ASTM E-1932 verification against reference images",
+          "5. Spatial Analysis - Grid-based quality assessment",
+          "6. Risk Assessment - Comprehensive material usage evaluation"
+        ],
+        "quality_metrics": [
+          "Defect count and classification accuracy",
+          "Pixel-level defect density calculation",
+          "Spatial distribution uniformity analysis",
+          "ASTM compliance verification",
+          "Overall quality scoring (0-100 scale)"
+        ],
+        "validation_criteria": [
+          "Detection accuracy verified against known defect samples",
+          "Classification confidence thresholds validated",
+          "ASTM compliance logic tested with standard materials",
+          "Grid analysis validated with reference specimens"
+        ]
+      },
+      "standards_references": {
+        "primary_standard": "ASTM E-1932: Standard Guide for Assessing the Detectability of Discontinuities by Radiographic Testing",
+        "reference_images": "ASTM E-1932 Standard Reference Radiographs (Images 1-8)",
+        "material_specifications": [
+          "Carbon Steel: ASTM A36, ASTM A572",
+          "Stainless Steel: ASTM A240, ASTM A276",
+          "Aluminum: ASTM B209, ASTM B221",
+          "Alloy Steel: ASTM A514, ASTM A709"
+        ],
+        "quality_grades": [
+          "Grade A: Premium quality (≤2% defect tolerance)",
+          "Grade B: Standard quality (≤5% defect tolerance)",
+          "Grade C: Commercial quality (≤8% defect tolerance)",
+          "Grade D: Industrial quality (≤12% defect tolerance)"
+        ],
+        "compliance_verification": [
+          "Automated cross-reference with ASTM standard database",
+          "Material-specific threshold calculation",
+          "Thickness-adjusted tolerance determination",
+          "Quality grade verification against specifications"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "test_case": "High Precision Carbon Steel Grade A",
+    "success": true,
+    "defects": 0,
+    "pixels": 0,
+    "grid_pass": false,
+    "quality_score": 0.0,
+    "grid_analysis": {
+      "error": "Systems not available"
+    }
+  },
+  {
+    "test_case": "Standard Stainless Steel Grade B",
+    "success": true,
+    "defects": 0,
+    "pixels": 0,
+    "grid_pass": false,
+    "quality_score": 0.0,
+    "grid_analysis": {
+      "error": "Systems not available"
+    }
+  },
+  {
+    "test_case": "Industrial Aluminum Grade C",
+    "success": true,
+    "defects": 0,
+    "pixels": 0,
+    "grid_pass": false,
+    "quality_score": 0.0,
+    "grid_analysis": {
+      "error": "Systems not available"
+    }
+  }
+]

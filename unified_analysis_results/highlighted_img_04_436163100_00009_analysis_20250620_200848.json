@@ -1,0 +1,40 @@
+{
+  "image_path": "USER_HIGHLIGHTED_DEFECTS/highlighted_img_04_436163100_00009.jpg",
+  "timestamp": "2025-06-20T20:08:46.029109",
+  "total_defects": 1,
+  "defect_pixels": 24494,
+  "classified_defects": [
+    {
+      "type": "unknown",
+      "confidence": 0.7406403422355652,
+      "bbox": [
+        28.439062118530273,
+        51.73017501831055,
+        2019.1300048828125,
+        947.48193359375
+      ],
+      "classification": "known"
+    }
+  ],
+  "unknown_defects": [],
+  "astm_compliance": false,
+  "grid_analysis_pass": false,
+  "quality_score": 73.0,
+  "executive_summary": "EXECUTIVE SUMMARY\\nImage: highlighted_img_04_436163100_00009.jpg\\nAnalysis Date: 2025-06-20\\nQuality Score: 73.0/100\\n\\nRESULT: 1 defects detected requiring assessment.\\nASTM Compliance: NON-COMPLIANT\\nGrid Analysis: FAIL\\n",
+  "detailed_findings": [
+    "Detected 1 defects using maximum recall detection",
+    "Highlighted 24494 defect pixels with pixel-perfect accuracy",
+    "Successfully classified 1 known defects",
+    "  - unknown (confidence: 0.74)",
+    "Grid analysis: 720 of 800 squares contain defects",
+    "Failed grid squares: 720"
+  ],
+  "recommendations": [
+    "Material quality is acceptable with minor defects",
+    "Consider secondary inspection of highlighted areas",
+    "Material does not meet ASTM E-1932 standards",
+    "Reject material or apply appropriate rework procedures",
+    "Grid analysis indicates localized quality issues",
+    "Focus inspection on failed grid areas"
+  ]
+}
